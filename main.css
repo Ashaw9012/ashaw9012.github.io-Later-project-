@@ -1,1 +1,30 @@
+.masterheader {
+    text-align: center;
+    background-color: gray;
+    margin: 0;
+}
 
+.topnav {
+    background-color: gray;
+    padding: 10px;
+    margin: 0;
+    border-radius: 30px
+}
+
+.activepage {
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    text-decoration-line: none;
+}
+
+.otherpage {
+    background-color: gray;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    text-decoration-line: none;
+}
