@@ -2,7 +2,7 @@
     text-align: center;
     background-color: gray;
     margin: 0;
-    background-image: url("/Assets/IMG_5323-HDR.jpg");
+    text-decoration-color: red; 
 }
 
 .topnav {
@@ -10,7 +10,7 @@
     padding: 10px;
     margin: 0;
     border-radius: 30px;
-
+    text-align: center; 
 }
 
 .activepage {
@@ -31,3 +31,19 @@
     text-decoration-line: none;
 }
 
+.container {
+    position: relative; 
+}
+
+.wrap {
+    padding-bottom: 2.5rem; 
+}
+
+
+.footer {
+    text-decoration-color: white; 
+    position: absolute;
+    color: black; 
+    width: 100%; 
+    height: 20%; 
+}
